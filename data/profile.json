@@ -8,28 +8,16 @@
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "HTML",
+        "logo": "https://github.com/lilianayumi/js-dio-desafio-02-portfolio/blob/main/data/imgs/html.png?raw=true"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "CSS",
+        "logo": "https://github.com/lilianayumi/js-dio-desafio-02-portfolio/blob/main/data/imgs/css.png?raw=true"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
-      },
-      {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/lilianayumi/js-dio-desafio-02-portfolio/main/data/imgs/js.png"
       }
     ],
     "softSkills": [
