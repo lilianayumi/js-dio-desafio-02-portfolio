@@ -33,15 +33,50 @@
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Formação HTML Web Developer",
+      "url": "https://github.com/lilianayumi/html-dio",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Construindo uma landing page do curso com HTML e CSS",
+      "url": "https://github.com/lilianayumi/css-dio-desafio-01",
       "github": true
-    }
+    },
+    {
+      "name": "Clonando a Página do Youtube com CSS",
+      "url": "https://github.com/lilianayumi/css-dio-desafio-02",
+      "github": true
+    },
+    {
+      "name": "Reproduzindo a Listagem do YouTube com Grid Layout no CSS",
+      "url": "https://github.com/lilianayumi/css-dio-desafio-03",
+      "github": true
+    },
+    {
+      "name": "Construindo um Layout Responsivo Para o Site do Discord Com CSS",
+      "url": "https://github.com/lilianayumi/css-dio-desafio-04",
+      "github": true
+    },
+    {
+      "name": "Clonando o Site da HBO Max com Animações em HTML e CSS",
+      "url": "https://github.com/lilianayumi/css-dio-desafio-05",
+      "github": true
+    },
+    {
+      "name": "Iniciando com seu primeiro Framework em CSS: Bootstrap",
+      "url": "https://github.com/lilianayumi/css-dio-bootstrap",
+      "github": true
+    },
+    {
+      "name": "Construindo uma Pokédex com JavaScript",
+      "url": "https://github.com/lilianayumi/js-dio-desafio-01-pokedex",
+      "github": true
+    },
+    {
+      "name": "Construindo o Portfólio Profissional Personalizado com JavaScript",
+      "url": "https://github.com/lilianayumi/js-dio-desafio-02-portfolio",
+      "github": true
+    },
   ],
   "professionalExperience": [
     {
