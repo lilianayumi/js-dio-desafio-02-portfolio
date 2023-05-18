@@ -21,7 +21,7 @@
     object-position: center;
     border-radius: 50%;
 }
-.header .title {
+.header .title, .header .title span {
     text-align: center;
     font-family: 'Roboto Mono', monospace;
 }

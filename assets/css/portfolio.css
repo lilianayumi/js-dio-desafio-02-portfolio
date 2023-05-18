@@ -11,13 +11,14 @@
     justify-content: flex-start;
     margin: 1rem 0;
 }
-.portfolio li .title.github::before {
+.portfolio li h3.github::before {
     content: '';
     display: inline-block;
     height: 1.5rem;
     width: 1.5rem;
     margin-right: 0.5rem;
     background: url('../img/icons/github.svg') no-repeat center / contain;
+    flex-shrink: 0; 
 }
 .portfolio li h3 {
     display: flex;
@@ -30,6 +31,7 @@
     display: block;
     font-weight: 400;
     margin-left: 2rem;
+    word-break: break-word;
 }
 @media screen and (min-width: 768px) {
     .portfolio li a {

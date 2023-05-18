@@ -16,35 +16,40 @@
     <link rel="stylesheet" href="assets/css/portfolio.css">
     <link rel="stylesheet" href="assets/css/experience.css">
     <link rel="stylesheet" href="assets/css/skills.css">
+    <link rel="stylesheet" href="assets/css/footer.css">
 </head>
 
 <body>
     <main class="main">
         <header class="header">
-            <img src="" alt="Foto de perfil" class="photo">Foto de perfil
-            <h1 class="title">Olá, <br> eu sou Nome Completo</h1>
+            <img src="" alt="Foto de perfil" class="photo" id="profile.photo">
+            <h1 class="title">Olá, <br> eu sou <span id="profile.name">Carregando...</span></h1>
             <div class="information">
-                <p class="job">Cargo atual</p>
-                <p class="location">Localização</p>
-                <p class="phone"><a href="tel:+55">Telefone</a></p>
-                <p class="email"><a href="mailto:email.com">Email</a></p>
+                <p class="job" id="profile.job">Carregando...</p>
+                <p class="location" id="profile.location">Carregando...</p>
+                <p class="phone">
+                    <a href="tel:+55" id="profile.phone">Carregando...</a>
+                </p>
+                <p class="email">
+                    <a href="mailto:email.com" id="profile.email">Carregando...</a>
+                </p>
             </div>
         </header>
         <section class="acordeon">
             <button class="trigger" type="button"><h2>Idiomas</h2></button>
             <div class="content">
-                <ul class="languages">
-                    <li>Idioma</li>
+                <ul class="languages" id="profile.languages">
+                    <li>Carregando...</li>
                 </ul>
             </div>
         </section>
         <section class="acordeon">
             <button class="trigger" type="button"><h2>Portfólio</h2></button>
             <div class="content">
-                <ul class="portfolio">
+                <ul class="portfolio" id="profile.portfolio">
                     <li>
-                        <h3 class="title github">Nome do projeto</h3>
-                        <a href="" target="_blank">Link Github</a>
+                        <h3>Carregando...</h3>
+                        <a href="" target="_blank">Carregando...</a>
                     </li>
                 </ul>
             </div>
@@ -52,11 +57,11 @@
         <section class="acordeon">
             <button class="trigger" type="button"><h2>Experiência Profissional</h2></button>
             <div class="content">
-                <ul class="experience">
+                <ul class="experience" id="profile.occupation">
                     <li>
-                        <h3 class="title">Nome do cargo</h3>
-                        <p class="period">Período</p>
-                        <p>Descrição do cargo</p>
+                        <h3 class="title">Carregando...</h3>
+                        <p class="period">Carregando...</p>
+                        <p>Carregando...</p>
                     </li>
                 </ul>
             </div>
@@ -66,20 +71,27 @@
             <div class="content skills">
                 <section class="hard-skills">
                     <h3 class="title">Habilidades Profissionais</h3>
-                    <ul>
-                        <li><img src="" alt="">Imagem</li>
+                    <ul id="profile.skills.hardSkills">
+                        <li><img src="" alt="" title="">Carregando...</li>
                     </ul>
                 </section>
                 <section class="soft-skills">
                     <h3 class="title">Habilidades Pessoais</h3>
-                    <ul>
-                        <li>Habilidade Pessoal</li>
+                    <ul id="profile.skills.softSkills">
+                        <li>Carregando...</li>
                     </ul>
                 </section>
             </div>
         </section>
+        <footer>
+            <a href="https://web.dio.me/home" target="_blank">
+                <img src="assets/img/dio.svg" alt="DIO">
+            </a>
+        </footer>
     </main>
     <script src="assets/js/acordeon.js"></script>
+    <script src="assets/js/api.js"></script>
+    <script src="assets/js/main.js"></script>
 </body>
 
 </html>

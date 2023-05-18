@@ -1,78 +1,93 @@
 {
-  "name": "Renan J Paula",
-  "photo": "https://avatars.githubusercontent.com/u/3266640?v=4",
-  "job": "Tech Lead no S3 Bank",
-  "location": "São Paulo - SP",
-  "phone": "(16) 98159-7656",
-  "email": "renanjohannsen@gmail.com",
+  "name": "Lilian Ayumi Yamada Hakutake",
+  "photo": "https://avatars.githubusercontent.com/u/112890098?v=4",
+  "job": "",
+  "location": "Maringá - PR",
+  "phone": "(44) 99946-0191",
+  "email": "lilianayumi97@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "name": "Nodejs",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/nodejs.png"
+        "name": "HTML",
+        "logo": "https://github.com/lilianayumi/js-dio-desafio-02-portfolio/blob/main/data/imgs/html.png?raw=true"
       },
       {
-        "name": "Java",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/java.png"
+        "name": "CSS",
+        "logo": "https://github.com/lilianayumi/js-dio-desafio-02-portfolio/blob/main/data/imgs/css.png?raw=true"
       },
       {
-        "name": "Angular",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/angular.png"
-      },
-      {
-        "name": "React",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/react.png"
-      },
-      {
-        "name": "Mongodb",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/mongodb.png"
-      },
-      {
-        "name": "Postgresql",
-        "logo": "https://raw.githubusercontent.com/digitalinnovationone/js-developer-portfolio/main/data/imgs/postgresql.png"
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/lilianayumi/js-dio-desafio-02-portfolio/main/data/imgs/js.png"
       }
     ],
     "softSkills": [
       "Empatia",
-      "Liderança",
       "Trabalho em equipe",
-      "Flexibilidade",
+      "Resiliência",
       "Organização"
     ]
   },
   "languages": [
-    "Português BR",
-    "Inglês (intermediário)",
-    "Espanhol (intermediário)",
-    "Italiano (iniciante)"
+    "Português - BR",
+    "Inglês - Intermediário"
   ],
   "portfolio": [
     {
-      "name": "Curso Ministrado na DIO para a criação de uma Pokedex",
-      "url": "https://github.com/RenanJPaula/js-developer-pokedex",
+      "name": "Formação HTML Web Developer",
+      "url": "https://github.com/lilianayumi/html-dio",
       "github": true
     },
     {
-      "name": "Curso Ministrado na DIO para a criação de uma página de portfolio",
-      "url": "https://github.com/RenanJPaula/js-developer-portfolio",
+      "name": "Construindo uma landing page do curso com HTML e CSS",
+      "url": "https://github.com/lilianayumi/css-dio-desafio-01",
+      "github": true
+    },
+    {
+      "name": "Clonando a Página do Youtube com CSS",
+      "url": "https://github.com/lilianayumi/css-dio-desafio-02",
+      "github": true
+    },
+    {
+      "name": "Reproduzindo a Listagem do YouTube com Grid Layout no CSS",
+      "url": "https://github.com/lilianayumi/css-dio-desafio-03",
+      "github": true
+    },
+    {
+      "name": "Construindo um Layout Responsivo Para o Site do Discord Com CSS",
+      "url": "https://github.com/lilianayumi/css-dio-desafio-04",
+      "github": true
+    },
+    {
+      "name": "Clonando o Site da HBO Max com Animações em HTML e CSS",
+      "url": "https://github.com/lilianayumi/css-dio-desafio-05",
+      "github": true
+    },
+    {
+      "name": "Iniciando com seu primeiro Framework em CSS: Bootstrap",
+      "url": "https://github.com/lilianayumi/css-dio-bootstrap",
+      "github": true
+    },
+    {
+      "name": "Construindo uma Pokédex com JavaScript",
+      "url": "https://github.com/lilianayumi/js-dio-desafio-01-pokedex",
+      "github": true
+    },
+    {
+      "name": "Construindo o Portfólio Profissional Personalizado com JavaScript",
+      "url": "https://github.com/lilianayumi/js-dio-desafio-02-portfolio",
       "github": true
     }
   ],
-  "professionalExperience": [
+  "occupation": [
     {
-      "name": "Arquiteto de software / S3 BANK",
-      "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "name": "Técnica de laboratório de controle de qualidade / Stevia Soul",
+      "period": "jun de 2022 - out de 2022",
+      "description": "Trabalhei com a realização de análises que envolviam o controle de qualidade físico-químico do processo."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Assistente de controle de qualidade / Stevia Soul",
+      "period": "jan de 2022 - jun de 2022",
+      "description": "Trabalhei na parte de inspeção do controle e garantia da qualidade, realizando análises de recebimento de matéria prima, embalagens e produto acabado, inspecionando as áreas e as linhas produtivas do setor."
     }
   ]
 }
