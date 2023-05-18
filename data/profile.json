@@ -78,21 +78,16 @@
       "github": true
     }
   ],
-  "professionalExperience": [
+  "occupation": [
     {
-      "name": "Arquiteto de software / S3 BANK",
+      "name": "Técnica de laboratório de controle de qualidade / Stevia Soul",
       "period": "2022 - até o momento",
-      "description": "É um prazer trabalhar ao lado de tantos profissionais excepcionais e construir tantas inovações de mercado."
+      "description": "Trabalhei com a realização de análises que envolviam o controle de qualidade físico-químico do processo."
     },
     {
-      "name": "Software Engineering Lead / DIO",
-      "period": "2021 - 2022",
-      "description": "Foi um grande prazer fazer parte deste time fantástico e poder contribuir com a transformação de tantas vidas."
-    },
-    {
-      "name": "CEO / Brain Machine",
-      "period": "2016 - 2021",
-      "description": "Anos incríveis ao lado de pessoas maravilhosas ajudando muitas empresas por todo o mundo."
+      "name": "Assistente de controle de qualidade / Stevia Soul",
+      "period": "jan de 2022 - jun de 2022",
+      "description": "Trabalhei na parte de inspeção do controle e garantia da qualidade, realizando análises de recebimento de matéria prima, embalagens e produto acabado, inspecionando as áreas e as linhas produtivas do setor."
     }
   ]
 }
